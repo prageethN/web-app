@@ -17,6 +17,7 @@ namespace WebApp
     {
         public Startup(IConfiguration configuration)
         {
+            // Change made
             Configuration = configuration;
         }
 
