@@ -17,7 +17,7 @@ namespace WebApp
     {
         public Startup(IConfiguration configuration)
         {
-            // Change made to the configurations - Modified
+            // Modified the Startup method
             Configuration = configuration;
         }
 
